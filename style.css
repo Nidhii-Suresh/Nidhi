@@ -1,0 +1,185 @@
+body{
+	padding:50px;
+	font-family:  'Josefin Sans', sans-serif;
+}
+
+.main-container div{
+	height: 60vh;
+	width: 100vh;
+	background-image: linear-gradient( #4285f4,#ffffff ); 
+	margin-left:auto;
+	margin-right: auto;
+	background-position: center center;
+	padding: 100px;
+	background-size: cover;
+}
+
+.container-1{
+	display: flex;
+	justify-content: center;
+	
+}
+
+
+
+.container-1 div{
+	flex-basis: : 80%;
+	height:45vh;
+	background: #fff;
+	background-position: center center;
+	padding: 50px;
+}
+
+
+.box-1{
+	flex: 2;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	display: inline;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+
+.box-1 > img{
+	width: 50%%;
+	height: 12vh;
+	position: top;
+	padding-top:12px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 5px;
+	flex-basis: center;
+
+}
+
+.box-1 > h5{
+	font-family:  'Josefin Sans', sans-serif;
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-weight:600;
+	color:#A9A9A9;
+}
+
+.box-1 > h6{
+	font-family:  'Josefin Sans', sans-serif;
+	text-align: center;
+    display: inline;
+	padding: 6px;
+	letter-spacing: 0.1em;
+	font-weight:600;
+	color:#4285f4;
+}
+
+.box-1 > h1{
+	text-align: center;
+	color:#4285f4;
+	letter-spacing: 0.1em;
+	font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+}
+
+.box-1 > hr{
+  border: 0.5px solid #d8e9f3;
+}
+
+.box-2{
+	flex: 2;
+	text-align: center;
+}
+
+
+.box-2 > img{
+	width: 50%%;
+	height: 12vh;
+	position: top;
+	padding-top:12px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+    border-radius: 0px;
+      align-items: center;
+}
+
+.box-2 > h5{
+	font-family:  'Josefin Sans', sans-serif;
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-weight:600;
+	color:#A9A9A9;
+}
+
+.box-2 > h6{
+	font-family:  'Josefin Sans', sans-serif;
+	text-align: center;
+	display: inline;
+	letter-spacing: 0.1em;
+	font-weight:600;
+	color:#4285f4;
+}
+
+.box-2 > h1{
+	text-align: center;
+	color:#4285f4;
+	letter-spacing: 0.1em;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.box-2 > hr{
+  border: 0.5px solid #d8e9f3;
+}
+
+
+.box-3{
+	flex: 1;
+	text-align: center;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.box-3 > img{
+	width: 50%%;
+	height: 12vh;
+	position: top;
+	padding-top:12px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.box-3 > h5{
+	font-family:  'Josefin Sans', sans-serif;
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 10px;
+	letter-spacing: 0.1em;
+	font-weight:600;
+	color:#A9A9A9;
+}
+
+.box-3 > h6{
+	font-family:  'Josefin Sans', sans-serif;
+	text-align: center;
+	display: inline;
+	letter-spacing: 0.1em
+	font-weight:600;
+	color:#4285f4;
+		text-align: center;
+}
+
+.box-3 > h1{
+	text-align: center;
+	color:#4285f4;
+	letter-spacing: 0.1em;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.box-3 > hr{
+  border: 0.5px solid #d8e9f3;
+}
+
