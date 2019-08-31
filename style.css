@@ -40,7 +40,6 @@ body{
 	display: inline;
 	border-top-left-radius: 10px;
 	border-bottom-left-radius: 10px;
-	border-right: 1px solid #DDDDDD;
 }
 
 
@@ -90,7 +89,6 @@ body{
 .box-2{
 	flex: 2;
 	text-align: center;
-	border-right: 1px solid #DDDDDD;
 }
 
 
